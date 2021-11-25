@@ -2,5 +2,3 @@ git test
 line was added on the web
 
 lines tested with git gui
-
-this line needed to be deleted
