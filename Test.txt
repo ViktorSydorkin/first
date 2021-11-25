@@ -7,3 +7,5 @@ additional line
 another line
 
 additional commit
+
+additional making conflict
